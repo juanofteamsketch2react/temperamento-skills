@@ -14,6 +14,7 @@ Each folder in `skills/` has a `SKILL.md` (frontmatter + method + gotchas) and, 
 | `browser-studio-threejs-webaudio` | Blender-scripted 3D room + AudioWorklet instruments |
 | `auv3-instrument-patterns` | Synths, drum machines and MIDI tools for iOS hosts |
 | `sibling-app-code-sharing` | Grow app #2 from app #1: vendor, diff, stage |
+| `manual-as-you-build` | The one-pager and a thorough user manual, written with the app |
 | `ship-it-app-store` | Preview videos, TestFlight notes, one-pagers |
 | `house-rules` | House rules for CLAUDE.md / AGENTS.md |
 
