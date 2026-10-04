@@ -29,4 +29,4 @@ Use the product's own engine for its demo, its film, its website and its sounds.
 Make the core host-agnostic early. Each new platform is then a thin shell, and each new app starts from the last one (copy, diff, ship).
 
 ## 8. Ship small, ship often
-TestFlight every few days. A one-pager and a thorough manual per app, updated in the same commit as each feature (see `manual-as-you-build`). A release video per release. Momentum is a feature.
+A TestFlight build for beta testers every few days, on real hardware; nothing reaches the store before testers have used it (see `real-hardware-first`). A one-pager and a thorough manual per app, updated in the same commit as each feature (see `manual-as-you-build`). A release video per release. Momentum is a feature.

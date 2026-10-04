@@ -15,6 +15,7 @@ Each folder in `skills/` has a `SKILL.md` (frontmatter + method + gotchas) and, 
 | `auv3-instrument-patterns` | Synths, drum machines and MIDI tools for iOS hosts |
 | `sibling-app-code-sharing` | Grow app #2 from app #1: vendor, diff, stage |
 | `manual-as-you-build` | The one-pager and a thorough user manual, written with the app |
+| `real-hardware-first` | Real devices and hosts, never only simulators; beta testers before every release |
 | `ship-it-app-store` | Preview videos, TestFlight notes, one-pagers |
 | `house-rules` | House rules for CLAUDE.md / AGENTS.md |
 
